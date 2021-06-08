@@ -1,0 +1,97 @@
+*{
+    color:  rgb(252, 196, 12);
+    background-color: #0A243C;
+    font-size: 12px;
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+body{
+    margin: 0px auto; 
+}
+header{
+    background-color: #0A243C;
+    width: 95%;
+    padding: 2px;
+    margin: 3px 1px;
+    display: inline-block;
+    text-align: center;
+}
+header h1{
+    font-size: 4em;
+    color:  rgb(252, 196, 12);
+    text-align: center;
+    float: center;
+    background-color: #0A243C;
+}
+
+nav{
+    text-align: center;
+    font-size: 1em;
+    width: 95%;
+    padding: 2px;  
+    background-color: #0A243C;
+    margin: 3px 3px;
+}
+
+nav li{
+    display: inline;
+    margin: 1px;
+    padding: 1px;
+}
+
+nav li a{
+    font-size: 1.5em;
+    padding: 3px;
+    color:  rgb(252, 196, 12);
+    background-color: #0A243C;
+    border: 2px solid rgb(252, 196, 12);
+    text-decoration: none;
+}
+
+nav li a:hover{
+    color: #0A243C;
+    background-color:rgb(252, 196, 12);;
+}
+
+section{
+    width: 95%;
+    margin-left: 10px;
+    margin-top: 20px;
+    padding: 5px;
+    float: left;
+    background-color: #0A243C;
+}
+
+article h2{
+    font-size: 1em;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 5px;
+    padding: 3px;
+}
+
+table{
+    margin: 0 auto;
+    text-align: left;
+    margin-bottom: 15px;
+}
+
+article h2{
+    font-size: 2em;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+td{
+    width: 140px;
+    margin-right: 25px;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+.container{
+    margin-top: 60px;
+    width: 430px;
+    height: 330px;
+}
